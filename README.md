@@ -2,6 +2,9 @@
 
 > A Vue.js project
 
+<img src ="images/ss1.png" >
+<img src ="images/ss2.png" >
+
 ## Build Setup
 
 ``` bash
